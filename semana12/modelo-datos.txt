@@ -1,0 +1,27 @@
+MODELO BÁSICO DE DATOS
+
+Entidad: Petición
+
+Campos principales:
+
+* id
+* titulo
+* descripcion
+* fecha_creacion
+* estado
+
+Propósito:
+Almacenar la información de cada petición comunitaria creada por los ciudadanos para realizar seguimiento a su avance.
+
+
+Entidad: Participante
+
+Campos principales:
+
+* id
+* peticion_id
+* nombre
+* fecha_apoyo
+
+Propósito:
+Registrar las personas que apoyan una petición y llevar el control de la participación ciudadana.

@@ -1,0 +1,10 @@
+Automatización simple usando n8n o Telegram.
+
+Evento:
+Una petición alcanza el número mínimo de apoyos establecido por la plataforma.
+
+Mensaje enviado:
+"La petición comunitaria ha alcanzado el número de apoyos requerido. Se encuentra lista para generar el documento oficial."
+
+Información que no debe enviarse:
+No deben compartirse números de identificación, direcciones de residencia, teléfonos, correos electrónicos, tokens, contraseñas ni otra información personal que pueda afectar la privacidad de los ciudadanos.

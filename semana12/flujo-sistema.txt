@@ -1,0 +1,7 @@
+Pasos simples de cómo funcionaría el sistema Petición en 3 Clics:
+
+1. Un líder comunitario registra una nueva petición en la plataforma con el título y la descripción del problema.
+2. El sistema almacena la información de la petición en la base de datos.
+3. Los ciudadanos ingresan a la plataforma y apoyan la petición si están de acuerdo con la iniciativa.
+4. La plataforma actualiza automáticamente el número de apoyos recibidos por cada petición.
+5. Cuando la petición alcanza los apoyos necesarios, el sistema genera un documento PDF para presentarlo ante la entidad correspondiente.
